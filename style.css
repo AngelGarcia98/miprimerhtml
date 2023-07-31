@@ -1,0 +1,15 @@
+padre {
+    color: greenyellow;
+}
+
+#yo {
+    background-color: aqua;
+}
+
+h2 {
+    color: red font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a[title] {
+    color: purple;
+}
